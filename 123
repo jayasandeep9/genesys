@@ -7,5 +7,9 @@ Hello from Feature Branch
 Pull Request Practice
 Hindhu
 sandeep
+<<<<<<< HEAD
 STASH PRACTICE
 pending datas
+=======
+git branch protection test
+>>>>>>> 9f1333432ee39d0e4b552f6035187648ab6fa7f2
